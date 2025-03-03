@@ -1,0 +1,7 @@
+## Interface: 11500
+## Title: Bento Player URL
+## Notes: Adds shortcut to create, copy and paste TSM or Auction Goblin URLs for hovered over items.
+## Version: 1.0
+## Author: MIYANKO
+
+BentoPlayerURL.lua
