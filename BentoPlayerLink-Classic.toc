@@ -1,0 +1,7 @@
+## Interface: 11500
+## Title: Bento Player Link
+## Notes: Adds player context menu links for the armory profile and logs.
+## Version: 1.0
+## Author: MIYANKO
+
+BentoPlayerLink.lua
